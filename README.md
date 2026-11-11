@@ -7,6 +7,8 @@ a working Excel file.
 
 Built with Python, Streamlit, pandas, Plotly and openpyxl.
 
+**▶ Live app: https://jdsavani-dcf-valuation.streamlit.app**
+
 ## Features
 
 - **Live data**: income statement, cash flow, price, beta, debt and cash from Yahoo Finance, plus the
